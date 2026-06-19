@@ -7,6 +7,7 @@ A Python-based monitoring dashboard built using Flask and psutil.
 - CPU Monitoring
 - Memory Monitoring
 - Disk Monitoring
+- Services Monitoring: ssh, firewalld, crond
 
 ## Technologies
 
