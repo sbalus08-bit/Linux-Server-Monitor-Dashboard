@@ -16,9 +16,18 @@
 
 <p>Disk Usage: {{ disk }}%</p>
 
-<h2>Services</h2>
+<p>Uptime: {{ uptime }} hours</p>
 
 <p>SSH Status: {{ ssh_status }}</p>
+
+<h2>Services</h2>
+
+<ul>
+{% for service, satus in services.items() %}
+	<li>{{ service }} : {{ status }}</li>
+{% endfor %}
+</ul>
+
 
 </body>
 
