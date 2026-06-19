@@ -22,6 +22,11 @@ A Python-based monitoring dashboard built using Flask and psutil to provide real
 - GitHub
 - Linux (CentOS)
 
+## Future Enhancements
+- Authentication
+- email alerts
+- Azure deployment
+
 ## Repository
 
 https://github.com/sbalus08-bit/Linux-Server-Monitor-Dashboard
