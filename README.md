@@ -1,19 +1,28 @@
+<img width="365" height="233" alt="Linux Monitoring Dashboard" src="https://github.com/user-attachments/assets/335c0a75-903c-4135-aacf-e597c49c7049" />
 # Linux-Server_Monitor_Dashboard
 
-A Python-based monitoring dashboard built using Flask and psutil.
+A Python-based monitoring dashboard built using Flask and psutil to provide real-time Linux system metrics and service monitoring.
 
 ## Features
 
-- CPU Monitoring
-- Memory Monitoring
-- Disk Monitoring
-- Services Monitoring: ssh, firewalld, crond
+- CPU utilisation monitoring
+- Memory utilisation monitoring
+- Disk utilisation monitoring
+- Systemd service monitoring
+- REST API endpoint
+- Docker support
+- GitHub version control
 
-## Technologies
+## Technologies Used
 
 - Python
 - Flask
 - psutil
 - Docker
 - Git
-- Linux
+- GitHub
+- Linux (CentOS)
+
+## Repository
+
+https://github.com/sbalus08-bit/Linux-Server-Monitor-Dashboard
