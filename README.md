@@ -1,4 +1,3 @@
-<img width="365" height="233" alt="Linux Monitoring Dashboard" src="https://github.com/user-attachments/assets/335c0a75-903c-4135-aacf-e597c49c7049" />
 # Linux-Server_Monitor_Dashboard
 
 A Python-based monitoring dashboard built using Flask and psutil to provide real-time Linux system metrics and service monitoring.
@@ -26,3 +25,5 @@ A Python-based monitoring dashboard built using Flask and psutil to provide real
 ## Repository
 
 https://github.com/sbalus08-bit/Linux-Server-Monitor-Dashboard
+
+<img width="365" height="233" alt="Linux Monitoring Dashboard" src="https://github.com/user-attachments/assets/335c0a75-903c-4135-aacf-e597c49c7049" />
